@@ -1,4 +1,5 @@
-BLOXUS Maintenance Log
+BLOXUS Services Maintenance Log
+
 -----------------------------------------------------------------------------------
 
 #1. 1/26/2025, 90 Minutes, Start Time: 11:00 AM EST, End Time: 12:30 PM EST.
@@ -6,5 +7,37 @@ Reason: Schedule  Maintenance - Site Uprades and Data Changes
 
 #2. 2/14/2025, 15 Minutes, Start Time: 4:45 PM EST, End Time: 5:15 PM EST.
 Reason: Site Issue - Connection Bug
+
+#3. 4/11/2025, 5 Minutes, Start Time: 4:45 PM EST, End Time: 9:40 PM EST.
+Reason: Server Tunneling Issue - Unable to connect with server
+
+#4. 4/20/2025, 60 Minutes, Start Time: 10:00 PM EST, End Time: 11:00 PM EST.
+Reason: Schedule  Maintenance
+
+#5. 4/21/2025, Unlogged, Start Time: Unlogged, End Time: Unlogged.
+Reason: Internal Server Errors
+
+#6. 4/26/2025, 65 Minutes, Start Time: 10:20 PM EST, End Time: 11:25 PM EST.
+Reason: Server Outage
+
+#7. 5/20/2025, 30 Minutes
+Reason: Schedule  Maintenance
+
+#8. 8/16/2025, 15 Minutes
+Reason: Sites Upgrades
+
+#9. 9/08/2025, 30 Minutes
+Reason: Schedule  Maintenance
+
+#10. 10/31/2025, 10 Minutes
+Reason: Schedule  Maintenance
+
+#11. 12/30/2025, 27 Minutes
+Reason: Internal Server Errors
+
+#12. 1/21/2026, 5 Minutes
+Reason: Schedule  Maintenance
+
+
 -----------------------------------------------------------------------------------
 End of Log
