@@ -1,0 +1,10 @@
+BLOXUS Maintenance Log
+-----------------------------------------------------------------------------------
+
+#1. 1/26/2025, 90 Minutes, Start Time: 11:00 AM EST, End Time: 12:30 PM EST.
+Reason: Schedule  Maintenance - Site Uprades and Data Changes
+
+#2. 2/14/2025, 15 Minutes, Start Time: 4:45 PM EST, End Time: 5:15 PM EST.
+Reason: Site Issue - Connection Bug
+-----------------------------------------------------------------------------------
+End of Log
